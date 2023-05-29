@@ -1,3 +1,349 @@
 # eikan.github.io
 
-tetetete
+ <table>
+    <tr>
+      <td>4月1日</td>
+      <td>全員の練習効率UP</td>
+    </tr>
+    <tr>
+      <td>8月21日</td>
+      <td>高確率で特訓マスが3～4マス発生する</td>
+      <td>【北海道・東北地方・長野限定】<br>
+上記の地方は8月21日ではなく10日もしくは15日に踏むと高確率で特訓マスが出現</td>
+    </tr>
+ </table>
+ 
+ <table>
+    <tr>
+      <th>性格</th>
+      <th>効果</th>
+    </tr>
+    <tr>
+      <td>ごくふつう、内気</td>
+      <td>スタミナUP</td>
+    </tr>
+    <tr>
+      <td>やんちゃ、熱血漢</td>
+      <td>守備力、捕球UP</td>
+    </tr>
+    <tr>
+      <td>クール、天才肌</td>
+      <td>コントロール、球速UP</td>
+    </tr>
+    <tr>
+      <td>お調子者、したたか</td>
+      <td>調子UP</td>
+    </tr>
+ </table>
+ 
+ キャプテンの性格
+ 天才肌>熱血漢>ごくふつう=クール=やんちゃ>内気
+ 
+
+ <table>
+    <tr>
+      <th></th>
+      <th>戦術</th>
+      <th>能力</th>
+      <th>ステータス</th>
+      <th>特能</th>
+    </tr>
+    <tr>
+      <td>攻撃</td>
+      <td>センター返し</td>
+      <td>ミート</td>
+      <td>60</td>
+      <td>アベヒレージヒッター</td>
+    </tr>
+    <tr>
+      <td>攻撃</td>
+      <td>流し打ち</td>
+      <td>ミート</td>
+      <td>75</td>
+      <td>「流し打ち」「広角打法」「アウトコースヒッター」</td>
+    </tr>
+    <tr>
+      <td rowspan="2">攻撃</td>
+      <td rowspan="2">転がせ</td>
+      <td>ミート</td>
+      <td>60</td>
+      <td rowspan="2">「内野安打○」</td>
+    </tr>
+    <tr>
+      <td>走力</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>攻撃</td>
+      <td>引っ張り</td>
+      <td>パワー</td>
+      <td>75</td>
+      <td>「プルヒッター」「インコースヒッター」</td>
+    </tr>
+    <tr>
+      <td>守備</td>
+      <td>内角中心</td>
+      <td>球速</td>
+      <td>155</td>
+      <td>「内角攻め」</td>
+    </tr>
+    <tr>
+      <td>守備</td>
+      <td>外角中心</td>
+      <td>コントロール</td>
+      <td>80</td>
+      <td>コントロールA、総変化量10以上</td>
+    </tr>
+    <tr>
+      <td>守備</td>
+      <td>ストライクをとれ</td>
+      <td>スタミナ</td>
+      <td>70</td>
+      <td>球速155以上</td>
+    </tr>
+    <tr>
+      <td>守備</td>
+      <td>クサイところ</td>
+      <td>コントロール</td>
+      <td>90</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">守備</td>
+      <td rowspan="2">打たせてとれ</td>
+      <td>スタミナ</td>
+      <td>80</td>
+      <td rowspan="2">「キレ○」</td>
+    </tr>
+    <tr>
+      <td>総変化量</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td rowspan="2">守備</td>
+      <td rowspan="2">緩急重視</td>
+      <td>球速</td>
+      <td>155</td>
+      <td rowspan="2">「緩急○」「リリース○」</td>
+    </tr>
+    <tr>
+      <td>総変化量</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td rowspan="2">守備</td>
+      <td rowspan="2">低め中心</td>
+      <td>コントロール</td>
+      <td>80</td>
+      <td rowspan="2">「低め○」</td>
+    </tr>
+    <tr>
+      <td>総変化量</td>
+      <td>10</td>
+    </tr>
+ </table>
+ 
+ 
+ <table>
+    <tr>
+      <th>公式試合</th>
+      <th colspan="2">相手が弱小</th>
+      <th colspan="2">相手がそこそこ</th>
+      <th colspan="2">相手が中堅</th>
+      <th colspan="2">相手が強豪</th>
+      <th colspan="2">相手が名門</th>
+      <th colspan="2">相手が超名門</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+    </tr>
+    <tr>
+      <td>弱小</td>
+      <td>5</td>
+      <td>-</td>
+      <td>11</td>
+      <td>-</td>
+      <td>13</td>
+      <td>-</td>
+      <td>15</td>
+      <td>-</td>
+      <td>17</td>
+      <td>-</td>
+      <td>19</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>そこそこ</td>
+      <td>2</td>
+      <td>-5</td>
+      <td>3</td>
+      <td>-3</td>
+      <td>4</td>
+      <td>-2</td>
+      <td>6</td>
+      <td>-</td>
+      <td>10</td>
+      <td>-</td>
+      <td>12</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>中堅</td>
+      <td>-</td>
+      <td>-10</td>
+      <td>1</td>
+      <td>-6</td>
+      <td>2</td>
+      <td>-4</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>5</td>
+      <td>-</td>
+      <td>8</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>強豪</td>
+      <td>-</td>
+      <td>-20</td>
+      <td>-</td>
+      <td>-15</td>
+      <td>1</td>
+      <td>-4</td>
+      <td>2</td>
+      <td>-3</td>
+      <td>3</td>
+      <td>-</td>
+      <td>6</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>名門</td>
+      <td>-</td>
+      <td>-25</td>
+      <td>-</td>
+      <td>-20</td>
+      <td>-</td>
+      <td>-8</td>
+      <td>1</td>
+      <td>-5</td>
+      <td>2</td>
+      <td>-3</td>
+      <td>5</td>
+      <td>-</td>
+    </tr>
+ </table>
+
+ <table>
+    <tr>
+      <th>練習試合</th>
+      <th colspan="2">相手が弱小</th>
+      <th colspan="2">相手がそこそこ</th>
+      <th colspan="2">相手が中堅</th>
+      <th colspan="2">相手が強豪</th>
+      <th colspan="2">相手が名門</th>
+      <th colspan="2">相手が超名門</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+      <td>勝利</td>
+      <td>敗北</td>
+    </tr>
+    <tr>
+      <td>弱小</td>
+      <td>4</td>
+      <td>-</td>
+      <td>6</td>
+      <td>-</td>
+      <td>8</td>
+      <td>-</td>
+      <td>10</td>
+      <td>-</td>
+      <td>12</td>
+      <td>-</td>
+      <td>12</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>そこそこ</td>
+      <td>-</td>
+      <td>-</td>
+      <td>2</td>
+      <td>-</td>
+      <td>4</td>
+      <td>-</td>
+      <td>6</td>
+      <td>-</td>
+      <td>8</td>
+      <td>-</td>
+      <td>8</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>中堅</td>
+      <td>-</td>
+      <td>-1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>2</td>
+      <td>-</td>
+      <td>4</td>
+      <td>-</td>
+      <td>4</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>強豪</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>-1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>1</td>
+      <td>-</td>
+      <td>1</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>名門</td>
+      <td>-</td>
+      <td>-3</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>-1</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+ </table>
